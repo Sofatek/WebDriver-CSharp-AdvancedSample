@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("SampleAutomaton")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("UCF")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SampleAutomaton")]
-[assembly: AssemblyCopyright("Copyright © UCF 2019")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
